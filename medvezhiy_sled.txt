@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-analog-sas-attended-audit.trycloudflare.com
-=======
-spring-without-miles-privileges.trycloudflare.com
->>>>>>> Stashed changes
+excel-marks-created-capacity.trycloudflare.com
