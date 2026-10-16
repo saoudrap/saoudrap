@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-trailer-says-val-meanwhile.trycloudflare.com
-=======
-resident-weblogs-attempts-critical.trycloudflare.com
->>>>>>> Stashed changes
+pct-afford-fly-costume.trycloudflare.com
