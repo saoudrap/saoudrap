@@ -1,1 +1,1 @@
-suites-deal-rolling-release.trycloudflare.com
+weight-published-calm-kentucky.trycloudflare.com
